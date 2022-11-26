@@ -6,7 +6,5 @@ Teste prático para desenvolvimento de um layout consumindo api
 
 ## Tecnologias usadas
 
-In the project directory, you can run:
-
 ### `React`
 ### `Tailwind`
